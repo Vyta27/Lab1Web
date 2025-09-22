@@ -37,9 +37,6 @@ jawab :
 -  _parent : mirip dengan _top, hanya saja dia membuka di parent frame (jika kalau infame di dalam inframe, _parent akan naik satu level, tidak langsung ke halaman utama).
 
 # TUGAS
-<img width="1557" height="969" alt="Image" src="https://github.com/user-attachments/assets/b91d6906-819f-4d9c-bef3-6547c738dde4" />
-<img width="1557" height="969" alt="Image" src="https://github.com/user-attachments/assets/40de7c16-4eb8-47f7-b952-21a60df97ecd" />
-<img width="1557" height="969" alt="Image" src="https://github.com/user-attachments/assets/7ba6dc39-d6b4-4afb-af9d-40331ca95911" />
 <img width="1557" height="969" alt="Image" src="https://github.com/user-attachments/assets/f3c017d2-1b86-42e5-be0f-41b517b6cfeb" />
 <img width="1557" height="969" alt="Image" src="https://github.com/user-attachments/assets/127e8e79-7326-4c5c-a611-cb408883b099" />
 <img width="1557" height="969" alt="Image" src="https://github.com/user-attachments/assets/ce51d9e1-972d-46c5-b696-5ff5fa776ff6" />
