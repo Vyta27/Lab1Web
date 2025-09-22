@@ -6,10 +6,10 @@ Kelas : TI.24.A2
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! 
+2. Apa perbedaan dari tag < p > dengan tag < br >, berikan penjelasannya! 
    
-   Jawab : tag <p> (paragraf) adalah tag untuk membuat paragraf pada doukumen HTML
-           tag <br> (break line) adalah tag untuk berpindah ke baris selanjutnya.
+   Jawab : tag < p > (paragraf) adalah tag untuk membuat paragraf pada doukumen HTML
+           tag < br > (break line) adalah tag untuk berpindah ke baris selanjutnya.
         
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
    
