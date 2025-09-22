@@ -6,7 +6,11 @@ Kelas : TI.24.A2
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
 
-2. Apa perbedaan dari tag < p > dengan tag < br >, berikan penjelasannya! 
+jawab : <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/cef2ec5d-cf4b-4325-8511-51916a1caed5" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/0d922dc3-1259-46e6-8ac5-6c463e0df768" />
+
+3. Apa perbedaan dari tag < p > dengan tag < br >, berikan penjelasannya! 
    
    Jawab : tag < p > (paragraf) adalah tag untuk membuat paragraf pada doukumen HTML
    
